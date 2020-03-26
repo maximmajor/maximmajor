@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+ <head> 
+  <title>First Web Page</title> 
+ </head> 
+ <body> 
+  <h1>FIRST Web Page</h1> 
+  <p> Kindly do exactly what you see here as it would affect you score <br>Whether it is your first webpage in life or not, use the heading above it wont bite.. </p> 
+  <h2>H2 Heading</h2> 
+  <p>As best practice, your webpage should have just one element </p> 
+  <h3> H3 Heading</h3> 
+  <p>This test is too simple to fail.<br> it is simply a test of how much you have been following the course</p> 
+ 
+  <p> thanks.. wait ..<br> you Will have to upload this project on github.Yea... </p> 
+  <h4> H4 Heading</h4> 
+    
+  <p> use the file structure that will be shown below..
+  <br> : : : First Webpage : : :
+    <br>.     |... : : : Html.index : : :
+    <br>.     |..... : : : style.css : : :
+    <br>.     |..... : : : scrpt.js : : :</p> 
+ </body>
+   
+</html>
