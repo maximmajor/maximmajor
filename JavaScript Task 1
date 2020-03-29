@@ -1,23 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>JavaScript Variables</h2>
-
-<p>Strings are written with quotes.</p>
-<p>Numbers are written without quotes.</p>
-
-<p id="demo"></p>
-
-<script>
 var MyName = 'AMAJOR UGOCHUKWU CHRISTIAN';
-var courses = [" HTML" ,  " CSS" ,  " JAVASCRIPT"];
+var Mycourses = [" HTML" ,  " CSS" ,  " JAVASCRIPT"];
 
 
-document.getElementById("demo").innerHTML =  "MY NAME IS  "  +
- MyName + "<br>" + "<BR>" + "MY COURSES ARE FRONTEND -- " + courses; 
- 
-</script>
-
-</body>
-</html>
+console.log(MyName);
+console.log(Mycourses);
+let x;
+for (x=3;x<=200;x+=2){
+    console.log(x);
+}
