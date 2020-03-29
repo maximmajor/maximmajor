@@ -15,10 +15,18 @@
   <h4> H4 Heading</h4> 
     
   <p> use the file structure that will be shown below..
-  <br> : : : First Webpage : : :
-    <br>.     |... : : : Html.index : : :
-    <br>.     |..... : : : style.css : : :
-    <br>.     |..... : : : scrpt.js : : :</p> 
- </body>
+  <br> 
+<pre>:::first_webpage:::</pre>
+    <pre>
+        |
+        ------:::index.html:::
+        |
+        ------:::style.css:::
+        |
+        ------:::script.js:::
+           
+    </pre>
+
+</body>
    
 </html>
